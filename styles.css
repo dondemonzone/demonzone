@@ -1,13 +1,13 @@
 body {
-  font-family: acumin-pro, sans-serif;
-  font-size: 30px;
+    font-family: acumin-pro, sans-serif;
+    font-size: 30px;
 }
 
 .main {
-	padding: 50px;
-	text-align: center; 
+    padding: 50px;
+    text-align: center; 
 }
 
 a {
-  color: black;
+    color: black;
 }
