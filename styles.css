@@ -1,4 +1,9 @@
 body {
   font-family: acumin-pro, sans-serif;
-  font-size: 400px;
+  font-size: 50px;
+  line-height: 20px;
+}
+
+a {
+  color: black;
 }
