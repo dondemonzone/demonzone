@@ -20,6 +20,7 @@ h1 {
     font-family: freight-display-pro, serif;
     font-weight: 700;
     font-style: normal;
+    margin: 10px;
 }
 
 img {
@@ -35,6 +36,11 @@ img {
 
 .main {
 
+}
+
+.section {
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 .showcase {
