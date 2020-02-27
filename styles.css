@@ -1,13 +1,44 @@
-body {
-    font-family: acumin-pro, sans-serif;
-    font-size: 30px;
-}
 
-.main {
-    padding: 50px;
+
+body {
+    /*font-family: acumin-pro, sans-serif;*/
+    font-size: 30px;
+    padding: 50px;      
     text-align: center; 
 }
 
 a {
     color: black;
 }
+
+
+p {
+    font-family: freight-big-pro, serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+h1 {
+    font-family: freight-display-pro, serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.italic {
+    font-family: freight-big-pro, serif;
+    font-weight: 400;
+    font-style: italic;
+}
+
+.main {
+
+}
+
+.showcase {
+    max-width: 800px;
+    max-height: 450px;
+    left: auto;
+    right: auto;
+    font-size: 16px;
+}
+
