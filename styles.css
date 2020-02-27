@@ -1,8 +1,8 @@
 body {
     font-size: 30px;
+    line-height: 10px;
     padding: 50px;      
     text-align: center; 
-    line-height: 10px;
 }
 
 a {
@@ -12,14 +12,14 @@ a {
 
 p {
     font-family: freight-big-pro, serif;
-    font-weight: 500;
     font-style: normal;
+    font-weight: 500;
 }
 
 h1 {
     font-family: freight-display-pro, serif;
-    font-weight: 700;
     font-style: normal;
+    font-weight: 700;
     margin: 50px;
 }
 
@@ -30,8 +30,8 @@ img {
 
 .italic {
     font-family: freight-big-pro, serif;
-    font-weight: 400;
     font-style: italic;
+    font-weight: 400;
 }
 
 .main {
@@ -39,14 +39,15 @@ img {
 }
 
 .section {
-    margin-top: 20px;
     margin-bottom: 20px;
+    margin-top: 20px;
 }
 
 .showcase {
-    max-height: 500px;
     display: block;
-    margin: auto;
     font-size: 16px;
+    margin: auto;
+    margin-top: 70px;
+    max-height: 500px;
 }
 
